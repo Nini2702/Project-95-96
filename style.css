@@ -1,0 +1,30 @@
+body{
+    background-image: url('bg1.jpg');
+    background-size: cover;
+
+}
+#heading{
+    margin-top: 50px;
+    font-family: 'Herr Von Muellerhoff', cursive;
+    font-size: 100px;
+    font-weight:bold;
+}
+
+#sub-head{
+    font-family: 'Montez', cursive;
+    font-size: 80px;
+    margin-top: 150px;
+}
+#user_name{
+    height:70px;
+    font-size: 20px;
+    margin-top: 30px;
+}
+#login_button {
+    margin-top: 50px;
+height:70px;
+width:20%;
+font-size: 40px;
+font-family: 'Cookie', cursive;
+background-image: url('bg2.gif');
+}

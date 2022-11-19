@@ -1,0 +1,35 @@
+body{
+    background-image: url('bg3.jpg');
+    background-size: cover;
+}
+#logout{
+    float: right;
+    margin-top: 80px;
+    margin-right: 120px;
+    height: 70px;
+    width: 150px;
+    font-size: 40px;
+    margin-bottom: 40px;
+    background-image: url('bg5.gif');
+    font-family: 'Cookie', cursive;
+}
+#section{
+    margin-top: 150px;
+}
+
+#room_name{
+    width:50%;
+    height: 70px;
+    font-size: 40px;
+    font-family: 'Cookie', cursive;
+}
+#addroom{
+    width:30%;
+    height:70px;
+    margin-top: 50px;
+    font-size: 40px;
+    background-image: url('bg4.gif');
+    background-size: cover;
+    background-position: center;
+    font-family: 'Cookie', cursive;
+}
